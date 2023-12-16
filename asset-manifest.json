@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dec-contest-1/static/css/main.fed1467a.css",
+    "main.js": "/Dec-contest-1/static/js/main.ee66822c.js",
+    "index.html": "/Dec-contest-1/index.html",
+    "main.fed1467a.css.map": "/Dec-contest-1/static/css/main.fed1467a.css.map",
+    "main.ee66822c.js.map": "/Dec-contest-1/static/js/main.ee66822c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fed1467a.css",
+    "static/js/main.ee66822c.js"
+  ]
+}
